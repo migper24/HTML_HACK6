@@ -1,0 +1,135 @@
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.foto2{
+    position: relative;
+    margin-top: -40%;
+    margin-left: 0%;
+    margin-left: 0%;
+}
+.caja-1{
+    position: relative;
+    width: 150px;
+    height: 40px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    background-color: black;
+    margin-left: 10%;
+    margin-top: -80%;
+}
+.text1{position: absolute;
+    margin-left: 20%;
+    margin-top:-5% ;
+    color: white;
+    font-size: 100%;
+    font-family: 'Courier New', Courier, monospace;}
+
+.text2{
+    position: relative;
+    margin-left:10% ;
+    color: black;
+    font-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text3{
+    position: relative;
+    margin-left:10% ;
+    color: black;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;}
+.puntoverde{
+    position: relative;
+    border-radius: 100%;
+    margin-top: -33%;
+    margin-left: 65%;
+    width: 210px;
+    height: 210px;
+    background-color: #00BF63;
+}
+.text4{
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 15%;
+    color: white;
+    font-size: 120%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.column {
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: -1%;
+    margin-right: 0%;
+    margin-left: 12%;
+    
+    
+
+  
+}
+
+.row {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-flex;
+    position: absolute;
+    font-size: 170%;
+    color: #000000;
+    margin-top: 25%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.column1 {
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: -1%;
+    margin-right: 0%;
+    margin-left: 12%;
+    
+    
+
+  
+}
+
+.row1 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-flex;
+    position: absolute;
+    font-size: 170%;
+    color: #000000;
+    margin-top: 65%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.caja-2{
+    width: 1200px;
+    height: 80px;
+    background-color: black;
+    position: relative;
+    margin-left: 2%;
+    margin-right: 0%;
+    margin-top: 100%;
+}
+.caja-3{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    background-color: #00BF63;
+    margin-left: 10%;
+    margin-top: 2%;}
+
+    .text5{position: absolute;
+        margin-top:-10% ;
+        margin-left: 10%;
+        color: white;
+        font-size: 130%;
+        font-family: Arial, Helvetica, sans-serif;}
